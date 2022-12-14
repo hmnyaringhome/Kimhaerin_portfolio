@@ -1,9 +1,4 @@
-@font-face {
-    font-family: 'HSSaemaul-Regular';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/HSSaemaul-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
+@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/HSSaemaul-Regular.woff');
 
 *{
     margin: 0;
@@ -39,7 +34,7 @@ nav ul li{
   
 nav ul li a{
     color: #909090;
-    font-family: 'HS새마을체';
+    font-family: 'HSSaemaul-Regular';
     font-size: 10px;
 }
 
