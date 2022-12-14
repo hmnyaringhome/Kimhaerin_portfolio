@@ -1,0 +1,283 @@
+@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/HSSaemaul-Regular.woff');
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+nav{
+    width: 100%;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0px solid red;
+}
+nav ul{
+    width: 100%;
+    height: 40px;
+    border: 0px solid blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul li{
+    width: 166px;
+    height: 40px;
+    border: 0px solid pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+nav ul li a{
+    color: #909090;
+    font-family: 'HS새마을체';
+    font-size: 10px;
+}
+
+.m_menu1{width: 40px; padding-left: 45px;}
+.m_menu2{width: 166px;}
+.m_menu3{width: 30px; padding-right: 34px;}
+.m_menu4{width: 111px;}
+
+.cont1 {
+    width: 100%;
+    height: 660px;
+    background: linear-gradient(#A0CFA0 90%, white);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.cont2{
+    width: 100%;
+    height: 105px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.cont3{
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.cont4{
+    width: 100%;
+    height: 182px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.cont5{
+    width: 100%;
+    height: 123px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont6{
+    width: 100%;
+    height: 195px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont7{
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(white 50%, #93D19C);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*서브1*/
+
+.cont1-1{
+    width: 100%;
+    height: 246px;
+    background: linear-gradient(#F7F8FA 90%, white);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.cont2-1{
+    width: 100%;
+    height: 220px;
+    background-color: #F5F5F5;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont3-1{
+    width: 100%;
+    height: 436px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont4-1{
+    width: 100%;
+    height: 219px;
+    background-color: #F7F8FA;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont5-1{
+    width: 100%;
+    height: 223px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont6-1{
+    width: 100%;
+    height: 230px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont7-1{
+    width: 100%;
+    height: 228px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont8-1{
+    width: 100%;
+    height: 146px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont9-1{
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(white 50%, #93D19C);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*서브2*/
+
+.cont1-2{
+    width: 100%;
+    height: 219px;
+    background-color: #E3E3E3;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.cont2-2{
+    width: 100%;
+    height: 208px;
+    padding-top: 73px;
+    background-color: white;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont3-2{
+    width: 100%;
+    height: 81px;
+    padding-top: 36px;
+    padding-bottom: 55px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont4-2{
+    width: 100%;
+    height: 220px;
+    background-color: #F2F2F6;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont5-2{
+    width: 100%;
+    height: 353px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont6-2{
+    width: 100%;
+    height: 219px;
+    background-color: #F2F2F6;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont7-2{
+    width: 100%;
+    height: 946px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont8-2{
+    width: 100%;
+    height: 65px;
+    background: linear-gradient(white 50%, #93D19C);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
