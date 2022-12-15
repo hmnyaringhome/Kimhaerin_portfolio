@@ -38,10 +38,10 @@ nav ul li a{
     font-size: 10px;
 }
 
-.m_menu1{width: 40px; padding-left: 45px;}
-.m_menu2{width: 166px;}
-.m_menu3{width: 30px; padding-right: 34px;}
-.m_menu4{width: 111px;}
+.menu1{width: 40px; padding-left: 45px;}
+.menu2{width: 166px;}
+.menu3{width: 30px; padding-right: 34px;}
+.menu4{width: 111px;}
 
 .cont1 {
     width: 100%;
